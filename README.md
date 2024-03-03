@@ -1,6 +1,4 @@
-### Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=FF0B26&background=F7F2F20A&random=false&width=465&lines=Hi+There!;This+is+Gifted+Tech;I+am+a+self+trained+Fronted+Developer)](https://github.com/Giftedmaurice/README.md)
-<!--
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=FF0B26&background=F7F2F20A&random=false&width=465&lines=Hi+There👋!;This+is+Gifted+Tech;I+am+a+self+trained+Fronted+Developer)](https://github.com/Giftedmaurice/README.md)
 
 <h2> Here is My Github Profile<h2/>
 
@@ -12,4 +10,4 @@
 - 📫 How to reach me: ...
 
 - ⚡ Fun fact: ...
--->
+
