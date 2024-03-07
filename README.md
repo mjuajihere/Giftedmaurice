@@ -28,6 +28,10 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Giftedmaurice&repo=gifted-md-qr&theme=dark&layout=compact&langs_count=8&card_width=320" />
 </a>
 
+<a href="https://github.com/Giftedmaurice/dreaded-bot">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Giftedmaurice&repo=dreaded-bot&theme=dark&layout=compact&langs_count=8&card_width=320" />
+</a>
+
 <a href="https://github.com/Giftedmaurice/Windows-Activator">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Giftedmaurice&repo=windows-activator&theme=dark&layout=compact&langs_count=8&card_width=320" />
 </a>
