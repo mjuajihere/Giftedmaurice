@@ -24,6 +24,10 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Giftedmaurice&repo=gifted-bot-md-plugins&theme=dark&layout=compact&langs_count=8&card_width=320" />
 </a>
 
+<a href="https://github.com/Giftedmaurice/giftedmdV2-session-generator">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Giftedmaurice&repo=giftedmdv2-session-generator&theme=dark&layout=compact&langs_count=8&card_width=320" />
+</a>
+
 <a href="https://github.com/Giftedmaurice/gifted-md-qr">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Giftedmaurice&repo=gifted-md-qr&theme=dark&layout=compact&langs_count=8&card_width=320" />
 </a>
