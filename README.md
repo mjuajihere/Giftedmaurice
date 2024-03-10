@@ -1,8 +1,14 @@
+
+
 [![Gifted tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Hello+Everyone%F0%9F%91%8B!;My+Name+is+Gifted+Tech;I+am+a+Self+Learned+Fronted+Developer;I+am+from+East+Africa-Kenya)](https://github.com/Giftedmaurice)
 
-<h2> Here is My Github Profile Stats<h2/>
+<h2>My Github Profile Stats<h2/>
 
 ![Giftedmaurice's GitHub stats](https://github-readme-stats.vercel.app/api?username=Giftedmaurice&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight&show_icons=true)
+
+<h2>My Current Profile Streaks</h2>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Giftedmaurice&theme=dark)](https://github.com/Giftedmaurice)
   
 - 🔭 I’m currently working on Gifted-MdV3
 - 🌱 I’m currently learning [`Python3`](https://www.liaoxuefeng.com/wiki/1016959663602400)
