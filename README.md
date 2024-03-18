@@ -1,6 +1,6 @@
 
 
-[![Gifted tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Hello+Everyone%F0%9F%91%8B!;My+Name+is+Gifted+Tech;I+am+a+Self+Learned+Fronted+Developer;I+am+from+East+Africa-Kenya)](https://github.com/Giftedmaurice)
+[![Gifted tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Hello+Everyone%F0%9F%91%8B!;My+Name+is+Gifted+Tech;I+am+a+Self+Learned+Fronted+Developer;I+Am+a+Backened+Developer+too;I+am+from+East+Africa-Kenya;Nice+to+Meet+You)](https://github.com/Giftedmaurice)
 
 <h2>My Github Profile Stats<h2/>
 
